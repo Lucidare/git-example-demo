@@ -1,4 +1,4 @@
 line 1
-new line 2
+a differnet line
 line 3
 someone else added line 4
